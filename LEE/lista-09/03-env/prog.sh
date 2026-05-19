@@ -1,3 +1,5 @@
 #!/bin/bash
 
-cd /desafio
+/bin/env /bin/sh -p
+
+cat /desafio/recompensa.txt
