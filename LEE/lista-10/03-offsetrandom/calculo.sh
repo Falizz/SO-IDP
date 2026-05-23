@@ -1,1 +1,0 @@
-python3 -c "print(0x1ce2780 - 0x1ce26b0)"
