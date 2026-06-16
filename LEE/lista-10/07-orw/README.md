@@ -1,0 +1,12 @@
+ - Ler Arquivo -
+
+Nesta atividade, você deverá escrever um código em assembly x86-64
+que abra o arquivo, leia seu conteúdo e escreva na saída padrão.
+O arquivo a ser lido é /desafio/recompensa.txt.
+Você pode ler o conteúdo para qualquer área de memória com permissões
+de leitura e escrita (sem variáveis globais explícitas dessa vez).
+Por último, você poderá utilizar somente as seguintes syscalls:
+ - open (openat)
+ - read
+ - write
+Para esta atividade, o seu payload não poderá exceder 256 bytes.

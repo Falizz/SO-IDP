@@ -1,0 +1,23 @@
+0000000000000000000000000000000000000000 ffcae9f408456c0699ecb146e3bbcbd59af4ca93 Falizz <fabioluisdecarvalhoterra@gmail.com> 1774125466 -0300	clone: from https://github.com/Falizz/SO-IDP.git
+ffcae9f408456c0699ecb146e3bbcbd59af4ca93 872b7f561d06606393251025c896b0af92445e75 Falizz <fabioluisdecarvalhoterra@gmail.com> 1776819029 -0300	pull: Fast-forward
+872b7f561d06606393251025c896b0af92445e75 49c3ca5ee3a4fe608e73a973d39094f8983dab5f Falizz <fabioluisdecarvalhoterra@gmail.com> 1776819106 -0300	pull: Fast-forward
+49c3ca5ee3a4fe608e73a973d39094f8983dab5f 5881dc362c9b1cc0a6dc946251c3def9f084655b Falizz <fabioluisdecarvalhoterra@gmail.com> 1776820997 -0300	commit: Adicionando lista de revisão
+5881dc362c9b1cc0a6dc946251c3def9f084655b 8b01e8f4b67d6c7a43f5abd0ace95376db913fe7 Falizz <fabioluisdecarvalhoterra@gmail.com> 1776821035 -0300	commit: Adicionando lista de revisão
+8b01e8f4b67d6c7a43f5abd0ace95376db913fe7 d6b24ca5f89e9091463430759d146ad507e6ad98 Falizz <fabioluisdecarvalhoterra@gmail.com> 1776821199 -0300	commit: Adicionando lista de revisão
+d6b24ca5f89e9091463430759d146ad507e6ad98 9411fdbf303c5b1da6676be8e13f4ba568fbf1fb Falizz <fabioluisdecarvalhoterra@gmail.com> 1776822360 -0300	commit: revisao slides
+9411fdbf303c5b1da6676be8e13f4ba568fbf1fb b717076fe21159373e5e9a74bc14bbcb9e448127 Falizz <fabioluisdecarvalhoterra@gmail.com> 1777817344 -0300	pull: Fast-forward
+b717076fe21159373e5e9a74bc14bbcb9e448127 5fe853554877f7fb6424c2430bd7770e9ebcc95a Falizz <fabioluisdecarvalhoterra@gmail.com> 1777827789 -0300	commit: LEE 08
+5fe853554877f7fb6424c2430bd7770e9ebcc95a fb2a26aa7b99659a9fd7113f5dc725232112fd51 Falizz <fabioluisdecarvalhoterra@gmail.com> 1777829394 -0300	commit: LEE 08
+fb2a26aa7b99659a9fd7113f5dc725232112fd51 88fa65c8fad0a934d80cc8d6466569c164bc2ef5 Falizz <fabioluisdecarvalhoterra@gmail.com> 1777831355 -0300	commit: LEE 08
+88fa65c8fad0a934d80cc8d6466569c164bc2ef5 e1dfa014e3d025390073de5ceea37fad5fb6e766 Falizz <fabioluisdecarvalhoterra@gmail.com> 1777837334 -0300	commit: LEE 08
+e1dfa014e3d025390073de5ceea37fad5fb6e766 0ff04ae68e576ad48d6a7fe8d1204492990b22da Falizz <fabioluisdecarvalhoterra@gmail.com> 1778945523 -0300	pull: Fast-forward
+0ff04ae68e576ad48d6a7fe8d1204492990b22da 718613df54c6d4f5200834e813ea199108488cfa Falizz <fabioluisdecarvalhoterra@gmail.com> 1779153661 -0300	pull: Fast-forward
+718613df54c6d4f5200834e813ea199108488cfa 26e7f5b71a4621366dd87dac76944f1056cd14c2 Falizz <fabioluisdecarvalhoterra@gmail.com> 1779153686 -0300	commit: LEE 09
+26e7f5b71a4621366dd87dac76944f1056cd14c2 610441a6ca06ea19f8c1bde4c93b910fcee7d9ee Falizz <fabioluisdecarvalhoterra@gmail.com> 1779412546 -0300	pull: Fast-forward
+610441a6ca06ea19f8c1bde4c93b910fcee7d9ee 9536703a1b7abe0f0faace411b9a9ae713b03871 Falizz <fabioluisdecarvalhoterra@gmail.com> 1779548437 -0300	commit: LEE 10
+9536703a1b7abe0f0faace411b9a9ae713b03871 1dcc301dff1faa9e6a431829c79bb2174983fd81 Falizz <fabioluisdecarvalhoterra@gmail.com> 1779549079 -0300	branch: Reset to HEAD
+1dcc301dff1faa9e6a431829c79bb2174983fd81 9536703a1b7abe0f0faace411b9a9ae713b03871 Falizz <fabioluisdecarvalhoterra@gmail.com> 1779549091 -0300	rebase (abort): returning to refs/heads/master
+9536703a1b7abe0f0faace411b9a9ae713b03871 261cd0911b07514b8d4d4e40a55db7a5ba5e7435 Falizz <fabioluisdecarvalhoterra@gmail.com> 1780514952 -0300	rebase (finish): refs/heads/master onto 9f3b960612a5c2b27ddd765a5f5d8b6a10a83c97
+261cd0911b07514b8d4d4e40a55db7a5ba5e7435 482b522cb2c6fafd19a60f05a15f66b16a636cca Falizz <fabioluisdecarvalhoterra@gmail.com> 1780514981 -0300	pull origin master --no-rebase: Merge made by the 'ort' strategy.
+482b522cb2c6fafd19a60f05a15f66b16a636cca 2feb415f81f0c6bfa92a53810c99399d058379ae Falizz <fabioluisdecarvalhoterra@gmail.com> 1780518857 -0300	commit: LEE 12
+2feb415f81f0c6bfa92a53810c99399d058379ae d875c2d93810e0cacb87985ea8d100fb218bd372 Falizz <fabioluisdecarvalhoterra@gmail.com> 1781653103 -0300	commit: Revisão AV2
